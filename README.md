@@ -1,4 +1,4 @@
-# trabajos-practivos-ppnp
+# Trabajos practicos PPNP
 Descripcion del proyecto ...
 
 ## Titulo de segundo nivel
